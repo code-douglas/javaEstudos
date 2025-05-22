@@ -1,4 +1,5 @@
 package EstruturaDeDados;
+
 import java.util.Scanner;
 
 public class DesafioBasicoDois {
