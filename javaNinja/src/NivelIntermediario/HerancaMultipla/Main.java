@@ -13,5 +13,8 @@ public class Main {
     Kakashi.idade = 22;
     Kakashi.aldeia = "Aldeia da folha";
     Kakashi.saudacao();
+    Kakashi.AtivarSharingan();
+    Kakashi.ninjaDeElite();
+    Kakashi.ninjaHokage();
   }
 }
